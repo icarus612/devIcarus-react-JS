@@ -304,14 +304,7 @@ input:focus, textarea:focus{
   box-shadow: 0 0 0 2px rgba(175, 70, 211, .7);
 
 }
-.crazy-container{
-  margin-top: -200px;
-  transform: skewY(20deg)
 
-}
-.crazy-container .color-change-bg{
-  transform: skewY(-20deg) translateY(-5vw)
-}
 .first-throbber {
     top: 50%;
     right: 9px;
