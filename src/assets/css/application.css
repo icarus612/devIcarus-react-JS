@@ -84,6 +84,10 @@ code {
   height: 100%;
 
 }
+.nav-bar a {
+  margin: 0 10px;
+  width: fit-content;
+}
 .text-blue {
   color: #1AAFD8;
 }
